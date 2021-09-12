@@ -1,0 +1,17 @@
+body {background-color: black;}
+
+#heading {
+    color:rgb(183, 212, 113)
+  }
+
+  .friend {
+      background-color: rgb(2, 22, 27);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: silver
+      
+  }
+
+  .friend > h3 {
+    text-transform: uppercase;
+  }
+
